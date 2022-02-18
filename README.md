@@ -1,4 +1,5 @@
 # kube-prometheus
+# 此仓库为修改过的,k8s版本为1.20.0 ,所以此prometheus-operator的版本为0.8
 
 [![Build Status](https://github.com/prometheus-operator/kube-prometheus/workflows/ci/badge.svg)](https://github.com/prometheus-operator/kube-prometheus/actions)
 [![Slack](https://img.shields.io/badge/join%20slack-%23prometheus--operator-brightgreen.svg)](http://slack.k8s.io/)
